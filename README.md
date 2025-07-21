@@ -1,4 +1,3 @@
-
 # Multi-Hash File Integrity Checker
 
 This project is a Python tool for verifying the integrity of files using cryptographic hash functions (MD5, SHA-1, SHA-256, and SHA3-256).  
@@ -31,7 +30,6 @@ It reflects practical skills developed during academic training.
 
 **1. Run the script:**
 
-    bash
     python main.py
 
 **2. Enter the names of two files when prompted:**
@@ -70,4 +68,4 @@ informatics and telecommunications Student
 
 GitHub: psarrosfilippos
 
-[README.md](https://github.com/user-attachments/files/21314468/README.md)
+[README.md](https://github.com/user-attachments/files/21339610/README.md)
